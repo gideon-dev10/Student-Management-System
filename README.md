@@ -22,6 +22,7 @@ A web-based Student Management System built using PHP,MySQL,HTML,and CSS.
 ## Author
 
 Gideon Onwuemene
+
 Computer Science Student
 
 
