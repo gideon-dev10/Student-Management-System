@@ -9,6 +9,7 @@ A web-based Student Management System built using PHP,MySQL,HTML,and CSS.
 - Search students by StudentID
 - Edit student records
 - Prevent duplicate Student IDs
+- Delete Student Records
 
 ## Technologies Used
 
@@ -21,5 +22,6 @@ A web-based Student Management System built using PHP,MySQL,HTML,and CSS.
 ## Author
 
 Gideon Onwuemene
+Computer Science Student
 
 
